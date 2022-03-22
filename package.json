@@ -1,6 +1,7 @@
 {
   "name": "rn-external-display",
   "private": true,
+  "description": "show screen external",
   "workspaces": [
     "packages/*"
   ],

@@ -92,9 +92,9 @@ public class RNExternalDisplayView extends ReactViewGroup implements LifecycleEv
 
   @Override
   public void onHostResume() {
-    if (displayScreen == null) {
-      return;
-    }
+    // if (displayScreen == null) {
+    //   return;
+    // }
     updateScreen();
   }
 
