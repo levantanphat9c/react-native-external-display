@@ -1,5 +1,5 @@
 {
-  "name": "react-native-external-display",
+  "name": "rn-external-display",
   "version": "0.5.16",
   "description": "React Native view renderer in External Display",
   "scripts": {},
